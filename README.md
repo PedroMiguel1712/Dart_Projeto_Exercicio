@@ -1,0 +1,16 @@
+# 💫 Sobre este projeto 💫
+
+## 📜 Objetivo:
+Concluir exercícios propostos no curso técnico Cotemig
+
+## 📋 Instalação:
+1. Copie o repo.
+2. Abra o DartPad.
+
+## 🧰 Tecnologia:
+- IDE: Visual Studio
+- SDK: [Dartpad](https://dartpad.dev)
+
+## 😁 Autor:
+
+Developed by [Pedro Miguel](https://www.jdoodle.com/compile-kotlin-online)
